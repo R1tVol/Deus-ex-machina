@@ -20,4 +20,4 @@ async def on_message(message):
     else:
         await message.channel.send(message.content)
 
-client.run("MTE5MTgwODExMDAyMTU4NzAwNQ.GSMWqt.AXIn5O_VRcE7TwH3C8ppoeAGE13Fq2MCCeNE8I")
+client.run("You do not have permission to view tokens, paste your own token")
